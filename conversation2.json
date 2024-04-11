@@ -1,0 +1,94 @@
+[
+  {
+    "speaker": "Tom",
+    "message": "Hi, I am Tom."
+  },
+  {
+    "speaker": "Ana",
+    "message": "I am Ana."
+  },
+  {
+    "speaker": "Tom",
+    "message": "This is a pretty good seminar so far, huh?"
+  },
+  {
+    "speaker": "Ana",
+    "message": "Yes, I like it. Prentice Hall always delivers good seminars. All of its speakers are very well-known and also very knowledgeable in the subject matter. Did you attend the seminar on Leadership in Long Beach last January?"
+  },
+  {
+    "speaker": "Tom",
+    "message": "No, I missed that one. Who was the speaker?"
+  },
+  {
+    "speaker": "Ana",
+    "message": "John Miller. He is the author of The Seven Habits of a Good Leader. It was a great seminar. John gave us tons of information on how to deal with employees. You should sign up for that seminar next year."
+  },
+  {
+    "speaker": "Tom",
+    "message": "I will. I am very interested in the subject of Leadership. I was promoted to the position of Supervisor a few months ago, and I have to manage a staff of ten people. It can be quite a difficult situation sometimes. It is the reason why I am here today."
+  },
+  {
+    "speaker": "Ana",
+    "message": "Same here. I only have seven people reporting to me; yet, sometimes I feel like pulling my hair out. I need to find a way to create harmony and cooperation within my department."
+  },
+  {
+    "speaker": "Tom",
+    "message": "I also need to learn how to better manage my workload. I always run out of time. It seems like the days are getting shorter and shorter."
+  },
+  {
+    "speaker": "Ana",
+    "message": "You need to sign up for the Learn How To Delegate seminar. It is coming next month."
+  },
+  {
+    "speaker": "Tom",
+    "message": "Let's see whether I will have any free time next month. I know sometime next month I will have to go to Texas on a business trip."
+  },
+  {
+    "speaker": "Ana",
+    "message": "By the way, what is your company doing?"
+  },
+  {
+    "speaker": "Tom",
+    "message": "Oh, we produce office equipment such as calculators and fax machines. How about yours?"
+  },
+  {
+    "speaker": "Ana",
+    "message": "We are in the service business. We specialize in repairing computers."
+  },
+  {
+    "speaker": "Tom",
+    "message": "How was business lately?"
+  },
+  {
+    "speaker": "Ana",
+    "message": "It is pretty slow right now. Just like any other company, we are quite affected by this slowing economy."
+  },
+  {
+    "speaker": "Tom",
+    "message": "Business is slow with my company too. However, people are saying that it should pick up any time now."
+  },
+  {
+    "speaker": "Ana",
+    "message": "Let's hope so. We need to keep our employees busy."
+  },
+  {
+    "speaker": "Tom",
+    "message": "I have some very talented employees, and I would like to keep their minds sharp. They tend to be bored when things slow down, and that is not good."
+  },
+  {
+    "speaker": "Ana",
+    "message": "Yes, nothing is more frustrating than sitting idle with nothing to do. The days seem so long."
+  },
+  {
+    "speaker": "Tom",
+    "message": "I hate those types of days. Luckily, it is not that bad in our company. Besides, we are in the process of updating our computer system, and we can use this slow period to finish the process."
+  },
+  {
+    "speaker": "Ana",
+    "message": "Good for you. Oh, 10:30 AM already. I guess our break-time is over."
+  },
+  {
+    "speaker": "Tom",
+    "message": "The topic of the next session, How To Make Positive Impression On Others And Gain Visibility And Influence In The Workplace, seems to be really interesting. We better not miss any part of it. Let’s get back to our seats so that we can learn how to bring out the best in ourselves as well as our employees."
+  }
+]
