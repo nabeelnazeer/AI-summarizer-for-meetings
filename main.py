@@ -1,5 +1,5 @@
 import json
-import requests
+# import requests
 
 # def load_conversation_data():
     
@@ -23,7 +23,7 @@ def load_conversation_data():
 conversation_string = load_conversation_data()    
 
 prompt ={
-    """Your goal is to summarize the given conversation to roughly 300 words. it is from s conversation between two or more people"""
+    """Your goal is to summarize the given conversation to roughly 300 words. it is from a conversation between two or more people"""
 }
 
 OLLAMA_ENDPOINT  = "http://localhost:11434/api/generate"
